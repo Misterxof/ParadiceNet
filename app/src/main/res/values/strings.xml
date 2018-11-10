@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ParadiceNet</string>
+    <string name="enter">Войти</string>
+    <string name="registration_enter">Зарегестрироваться</string>
+    <string name="mail">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="enter_text">Вход в аккаунт</string>
+    <string name="registration_text">Введите данные</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
